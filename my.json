@@ -1,0 +1,19 @@
+{
+  "projects": [
+    {
+      "apkName": "Hook Generator",
+      "description": "Automatically generate hooks from dump.cs file.",
+      "downloadLink": "https://github.com/MrTusarRX/Lgl-New-Esp-3.2/archive/refs/tags/Esp.zip"
+    },
+    {
+      "apkName": "Offset Finder",
+      "description": "Tool to parse dump.cs and extract class/method offsets.",
+      "downloadLink": "https://github.com/MrTusarRX/Lgl-New-Esp-3.2/archive/refs/tags/Esp.zip"
+    },
+    {
+      "apkName": "Il2cpp Dumper",
+      "description": "Dump il2cpp games easily on Android with this tool.",
+      "downloadLink": "https://github.com/MrTusarRX/Lgl-New-Esp-3.2/archive/refs/tags/Esp.zip"
+    }
+  ]
+}
