@@ -1,0 +1,602 @@
+[
+    {
+        "_id": "neet001",
+        "question": "Which of the following is the primary source of energy for Earth's climate system?",
+        "choices": {
+            "a": "Geothermal energy",
+            "b": "Solar radiation",
+            "c": "Tidal energy",
+            "d": "Nuclear energy"
+        },
+        "correct_answer": "b",
+        "explanation": "Solar radiation is the primary source of energy for Earth's climate system, driving processes like photosynthesis, evaporation, and atmospheric circulation."
+    },
+    {
+        "_id": "neet002",
+        "question": "What is the basic unit of life in all living organisms?",
+        "choices": {
+            "a": "Atom",
+            "b": "Molecule",
+            "c": "Cell",
+            "d": "Tissue"
+        },
+        "correct_answer": "c",
+        "explanation": "The cell is the basic structural and functional unit of life in all living organisms, as it carries out essential life processes."
+    },
+    {
+        "_id": "neet003",
+        "question": "Which gas is most abundant in the Earth's atmosphere?",
+        "choices": {
+            "a": "Oxygen",
+            "b": "Carbon dioxide",
+            "c": "Nitrogen",
+            "d": "Argon"
+        },
+        "correct_answer": "c",
+        "explanation": "Nitrogen constitutes about 78% of the Earth's atmosphere, making it the most abundant gas."
+    },
+    {
+        "_id": "neet004",
+        "question": "In the human body, which organ is responsible for filtering blood and producing urine?",
+        "choices": {
+            "a": "Liver",
+            "b": "Kidney",
+            "c": "Spleen",
+            "d": "Pancreas"
+        },
+        "correct_answer": "b",
+        "explanation": "The kidneys filter blood to remove waste products and excess substances, producing urine as part of the excretory system."
+    },
+    {
+        "_id": "neet005",
+        "question": "What is the chemical formula of glucose, a simple sugar used in cellular respiration?",
+        "choices": {
+            "a": "C6H12O6",
+            "b": "C12H22O11",
+            "c": "C3H8O3",
+            "d": "C2H5OH"
+        },
+        "correct_answer": "a",
+        "explanation": "Glucose has the chemical formula C6H12O6 and is a primary energy source for cells during cellular respiration."
+    },
+    {
+        "_id": "neet006",
+        "question": "Which of the following processes involves the conversion of light energy into chemical energy in plants?",
+        "choices": {
+            "a": "Respiration",
+            "b": "Transpiration",
+            "c": "Photosynthesis",
+            "d": "Fermentation"
+        },
+        "correct_answer": "c",
+        "explanation": "Photosynthesis is the process by which plants convert light energy into chemical energy stored in glucose, using carbon dioxide and water."
+    },
+    {
+        "_id": "neet007",
+        "question": "In Mendelian genetics, what is the expected phenotypic ratio of a monohybrid cross between two heterozygous individuals?",
+        "choices": {
+            "a": "1:1",
+            "b": "3:1",
+            "c": "9:3:3:1",
+            "d": "1:2:1"
+        },
+        "correct_answer": "b",
+        "explanation": "A monohybrid cross between two heterozygous individuals (e.g., Aa x Aa) results in a phenotypic ratio of 3 dominant to 1 recessive, as per Mendel's laws."
+    },
+    {
+        "_id": "neet008",
+        "question": "What is the value of acceleration due to gravity on the surface of the Earth (approximately)?",
+        "choices": {
+            "a": "9.8 m/s²",
+            "b": "8.9 m/s²",
+            "c": "10.2 m/s²",
+            "d": "7.8 m/s²"
+        },
+        "correct_answer": "a",
+        "explanation": "The acceleration due to gravity on Earth's surface is approximately 9.8 m/s², used in calculations for motion and force."
+    },
+    {
+        "_id": "neet009",
+        "question": "In organic chemistry, which functional group is characteristic of alcohols?",
+        "choices": {
+            "a": "Carboxyl (-COOH)",
+            "b": "Hydroxyl (-OH)",
+            "c": "Carbonyl (>C=O)",
+            "d": "Amino (-NH2)"
+        },
+        "correct_answer": "b",
+        "explanation": "The hydroxyl group (-OH) is the characteristic functional group of alcohols, responsible for their chemical properties."
+    },
+    {
+        "_id": "neet010",
+        "question": "In human physiology, which hormone is primarily responsible for regulating blood calcium levels?",
+        "choices": {
+            "a": "Insulin",
+            "b": "Adrenaline",
+            "c": "Parathormone",
+            "d": "Thyroxine"
+        },
+        "correct_answer": "c",
+        "explanation": "Parathormone (parathyroid hormone) regulates blood calcium levels by increasing bone resorption and enhancing calcium absorption in the kidneys and intestines."
+    },
+    {
+        "_id": "neet011",
+        "question": "Which cell organelle is known as the powerhouse of the cell?",
+        "choices": {
+            "a": "Nucleus",
+            "b": "Mitochondrion",
+            "c": "Golgi apparatus",
+            "d": "Endoplasmic reticulum"
+        },
+        "correct_answer": "b",
+        "explanation": "The mitochondrion is called the powerhouse of the cell because it produces ATP, the main energy currency of the cell, through cellular respiration."
+    },
+    {
+        "_id": "neet012",
+        "question": "What is the SI unit of force?",
+        "choices": {
+            "a": "Watt",
+            "b": "Joule",
+            "c": "Newton",
+            "d": "Pascal"
+        },
+        "correct_answer": "c",
+        "explanation": "The SI unit of force is the Newton (N), defined as the force required to accelerate a 1 kg mass by 1 m/s²."
+    },
+    {
+        "_id": "neet013",
+        "question": "Which of the following elements is essential for the formation of hemoglobin in red blood cells?",
+        "choices": {
+            "a": "Calcium",
+            "b": "Iron",
+            "c": "Potassium",
+            "d": "Magnesium"
+        },
+        "correct_answer": "b",
+        "explanation": "Iron is a critical component of hemoglobin, enabling it to bind and transport oxygen in the blood."
+    },
+    {
+        "_id": "neet014",
+        "question": "What type of bond holds the two strands of DNA together?",
+        "choices": {
+            "a": "Covalent bond",
+            "b": "Ionic bond",
+            "c": "Hydrogen bond",
+            "d": "Metallic bond"
+        },
+        "correct_answer": "c",
+        "explanation": "Hydrogen bonds between complementary base pairs (adenine-thymine, guanine-cytosine) hold the two strands of DNA together in a double helix."
+    },
+    {
+        "_id": "neet015",
+        "question": "Which of the following is a greenhouse gas?",
+        "choices": {
+            "a": "Nitrogen",
+            "b": "Oxygen",
+            "c": "Carbon dioxide",
+            "d": "Argon"
+        },
+        "correct_answer": "c",
+        "explanation": "Carbon dioxide is a greenhouse gas that traps heat in the Earth's atmosphere, contributing to the greenhouse effect."
+    },
+    {
+        "_id": "neet016",
+        "question": "What is the primary function of the ribosomes in a cell?",
+        "choices": {
+            "a": "Energy production",
+            "b": "Protein synthesis",
+            "c": "DNA replication",
+            "d": "Lipid storage"
+        },
+        "correct_answer": "b",
+        "explanation": "Ribosomes are responsible for protein synthesis, translating mRNA into polypeptide chains."
+    },
+    {
+        "_id": "neet017",
+        "question": "Which of the following is a balanced chemical equation for the combustion of methane?",
+        "choices": {
+            "a": "CH4 + O2 → CO2 + H2O",
+            "b": "CH4 + 2O2 → CO2 + 2H2O",
+            "c": "2CH4 + O2 → 2CO2 + H2O",
+            "d": "CH4 + 3O2 → CO2 + 3H2O"
+        },
+        "correct_answer": "b",
+        "explanation": "The balanced equation for methane combustion is CH4 + 2O2 → CO2 + 2H2O, ensuring equal numbers of each atom on both sides."
+    },
+    {
+        "_id": "neet018",
+        "question": "Which part of the human brain regulates balance and coordination?",
+        "choices": {
+            "a": "Cerebrum",
+            "b": "Cerebellum",
+            "c": "Medulla oblongata",
+            "d": "Hypothalamus"
+        },
+        "correct_answer": "b",
+        "explanation": "The cerebellum controls balance, coordination, and fine motor skills."
+    },
+    {
+        "_id": "neet019",
+        "question": "What is the focal length of a plane mirror?",
+        "choices": {
+            "a": "Zero",
+            "b": "Infinity",
+            "c": "Equal to the object distance",
+            "d": "Equal to the image distance"
+        },
+        "correct_answer": "b",
+        "explanation": "A plane mirror has a focal length of infinity because it does not converge or diverge light rays."
+    },
+    {
+        "_id": "neet020",
+        "question": "Which of the following is a vector quantity?",
+        "choices": {
+            "a": "Speed",
+            "b": "Mass",
+            "c": "Velocity",
+            "d": "Energy"
+        },
+        "correct_answer": "c",
+        "explanation": "Velocity is a vector quantity because it has both magnitude and direction, unlike speed, which is scalar."
+    },
+    {
+        "_id": "neet021",
+        "question": "Which enzyme breaks down starch into sugars in the human digestive system?",
+        "choices": {
+            "a": "Pepsin",
+            "b": "Amylase",
+            "c": "Lipase",
+            "d": "Trypsin"
+        },
+        "correct_answer": "b",
+        "explanation": "Amylase, found in saliva and pancreatic secretions, breaks down starch into simpler sugars like maltose."
+    },
+    {
+        "_id": "neet022",
+        "question": "What is the pH of a neutral solution at 25°C?",
+        "choices": {
+            "a": "0",
+            "b": "7",
+            "c": "14",
+            "d": "10"
+        },
+        "correct_answer": "b",
+        "explanation": "At 25°C, a neutral solution has a pH of 7, where the concentrations of H⁺ and OH⁻ ions are equal."
+    },
+    {
+        "_id": "neet023",
+        "question": "Which type of cell division results in the formation of gametes?",
+        "choices": {
+            "a": "Mitosis",
+            "b": "Meiosis",
+            "c": "Binary fission",
+            "d": "Budding"
+        },
+        "correct_answer": "b",
+        "explanation": "Meiosis is the process of cell division that produces gametes (sperm and egg cells) with half the chromosome number of the parent cell."
+    },
+    {
+        "_id": "neet024",
+        "question": "What is the unit of electric resistance?",
+        "choices": {
+            "a": "Ampere",
+            "b": "Volt",
+            "c": "Ohm",
+            "d": "Watt"
+        },
+        "correct_answer": "c",
+        "explanation": "The unit of electric resistance is the Ohm (Ω), which measures opposition to electric current flow."
+    },
+    {
+        "_id": "neet025",
+        "question": "Which of the following is an example of a connective tissue?",
+        "choices": {
+            "a": "Nerve tissue",
+            "b": "Muscle tissue",
+            "c": "Blood",
+            "d": "Epithelial tissue"
+        },
+        "correct_answer": "c",
+        "explanation": "Blood is a connective tissue that transports oxygen, nutrients, and waste products throughout the body."
+    },
+    {
+        "_id": "neet026",
+        "question": "What is the primary source of energy for cellular respiration?",
+        "choices": {
+            "a": "Proteins",
+            "b": "Lipids",
+            "c": "Carbohydrates",
+            "d": "Nucleic acids"
+        },
+        "correct_answer": "c",
+        "explanation": "Carbohydrates, particularly glucose, are the primary energy source for cellular respiration, producing ATP."
+    },
+    {
+        "_id": "neet027",
+        "question": "Which of the following is a noble gas?",
+        "choices": {
+            "a": "Nitrogen",
+            "b": "Helium",
+            "c": "Hydrogen",
+            "d": "Oxygen"
+        },
+        "correct_answer": "b",
+        "explanation": "Helium is a noble gas, characterized by its stable, unreactive nature due to a full valence electron shell."
+    },
+    {
+        "_id": "neet028",
+        "question": "Which structure in the human eye is responsible for focusing light onto the retina?",
+        "choices": {
+            "a": "Cornea",
+            "b": "Lens",
+            "c": "Retina",
+            "d": "Iris"
+        },
+        "correct_answer": "b",
+        "explanation": "The lens adjusts its shape to focus light onto the retina, enabling clear vision."
+    },
+    {
+        "_id": "neet029",
+        "question": "What is the product of the reaction between sodium and water?",
+        "choices": {
+            "a": "Sodium chloride",
+            "b": "Sodium hydroxide",
+            "c": "Sodium oxide",
+            "d": "Sodium carbonate"
+        },
+        "correct_answer": "b",
+        "explanation": "Sodium reacts with water to produce sodium hydroxide (NaOH) and hydrogen gas (H₂)."
+    },
+    {
+        "_id": "neet030",
+        "question": "Which law of motion states that an object at rest stays at rest unless acted upon by an external force?",
+        "choices": {
+            "a": "Newton's First Law",
+            "b": "Newton's Second Law",
+            "c": "Newton's Third Law",
+            "d": "Law of Gravitation"
+        },
+        "correct_answer": "a",
+        "explanation": "Newton's First Law, also known as the law of inertia, states that an object remains at rest or in uniform motion unless acted upon by an external force."
+    },
+    {
+        "_id": "neet031",
+        "question": "Which of the following is a characteristic of prokaryotic cells?",
+        "choices": {
+            "a": "Presence of a nucleus",
+            "b": "Presence of membrane-bound organelles",
+            "c": "Circular DNA",
+            "d": "Large size compared to eukaryotic cells"
+        },
+        "correct_answer": "c",
+        "explanation": "Prokaryotic cells have circular DNA and lack a nucleus and membrane-bound organelles, distinguishing them from eukaryotic cells."
+    },
+    {
+        "_id": "neet032",
+        "question": "What is the oxidation state of oxygen in water (H₂O)?",
+        "choices": {
+            "a": "+2",
+            "b": "-2",
+            "c": "0",
+            "d": "+1"
+        },
+        "correct_answer": "b",
+        "explanation": "In water, oxygen has an oxidation state of -2, as it gains electrons from hydrogen, which has an oxidation state of +1."
+    },
+    {
+        "_id": "neet033",
+        "question": "Which part of the plant is primarily responsible for water absorption?",
+        "choices": {
+            "a": "Leaves",
+            "b": "Stem",
+            "c": "Roots",
+            "d": "Flowers"
+        },
+        "correct_answer": "c",
+        "explanation": "Roots absorb water and nutrients from the soil through root hairs, supporting plant growth."
+    },
+    {
+        "_id": "neet034",
+        "question": "What is the SI unit of power?",
+        "choices": {
+            "a": "Joule",
+            "b": "Watt",
+            "c": "Newton",
+            "d": "Ampere"
+        },
+        "correct_answer": "b",
+        "explanation": "The SI unit of power is the Watt (W), defined as one joule per second."
+    },
+    {
+        "_id": "neet035",
+        "question": "Which of the following is an example of a reflex action?",
+        "choices": {
+            "a": "Writing",
+            "b": "Blinking",
+            "c": "Reading",
+            "d": "Eating"
+        },
+        "correct_answer": "b",
+        "explanation": "Blinking is a reflex action, an involuntary response to stimuli like bright light or foreign objects."
+    },
+    {
+        "_id": "neet036",
+        "question": "In the periodic table, elements in the same group have the same number of:",
+        "choices": {
+            "a": "Protons",
+            "b": "Neutrons",
+            "c": "Valence electrons",
+            "d": "Energy levels"
+        },
+        "correct_answer": "c",
+        "explanation": "Elements in the same group have the same number of valence electrons, determining their chemical properties."
+    },
+    {
+        "_id": "neet037",
+        "question": "Which type of RNA carries the genetic code from DNA to the ribosome for protein synthesis?",
+        "choices": {
+            "a": "tRNA",
+            "b": "rRNA",
+            "c": "mRNA",
+            "d": "snRNA"
+        },
+        "correct_answer": "c",
+        "explanation": "Messenger RNA (mRNA) carries the genetic code from DNA to the ribosome for translation into proteins."
+    },
+    {
+        "_id": "neet038",
+        "question": "What is the formula for calculating kinetic energy?",
+        "choices": {
+            "a": "KE = mv²",
+            "b": "KE = ½mv²",
+            "c": "KE = mgh",
+            "d": "KE = ½mv"
+        },
+        "correct_answer": "b",
+        "explanation": "Kinetic energy is calculated as KE = ½mv², where m is mass and v is velocity."
+    },
+    {
+        "_id": "neet039",
+        "question": "Which of the following is a characteristic feature of angiosperms?",
+        "choices": {
+            "a": "Naked seeds",
+            "b": "Cones",
+            "c": "Enclosed seeds",
+            "d": "No flowers"
+        },
+        "correct_answer": "c",
+        "explanation": "Angiosperms are flowering plants with seeds enclosed within a fruit, unlike gymnosperms with naked seeds."
+    },
+    {
+        "_id": "neet040",
+        "question": "What is the primary source of electrons in the electron transport chain during cellular respiration?",
+        "choices": {
+            "a": "Glucose",
+            "b": "NADH and FADH2",
+            "c": "ATP",
+            "d": "Oxygen"
+        },
+        "correct_answer": "b",
+        "explanation": "NADH and FADH2 donate electrons to the electron transport chain, driving ATP production in cellular respiration."
+    },
+    {
+        "_id": "neet041",
+        "question": "Which of the following is a characteristic of a covalent bond?",
+        "choices": {
+            "a": "Transfer of electrons",
+            "b": "Sharing of electrons",
+            "c": "Attraction between oppositely charged ions",
+            "d": "Metallic lattice formation"
+        },
+        "correct_answer": "b",
+        "explanation": "A covalent bond involves the sharing of electrons between atoms to achieve a stable electron configuration."
+    },
+    {
+        "_id": "neet042",
+        "question": "Which hormone is secreted by the adrenal medulla in response to stress?",
+        "choices": {
+            "a": "Cortisol",
+            "b": "Adrenaline",
+            "c": "Aldosterone",
+            "d": "Glucagon"
+        },
+        "correct_answer": "b",
+        "explanation": "Adrenaline (epinephrine) is secreted by the adrenal medulla to prepare the body for a 'fight or flight' response during stress."
+    },
+    {
+        "_id": "neet043",
+        "question": "What is the wavelength of light associated with the maximum absorption in chlorophyll a?",
+        "choices": {
+            "a": "430 nm and 662 nm",
+            "b": "500 nm and 600 nm",
+            "c": "350 nm and 550 nm",
+            "d": "700 nm and 800 nm"
+        },
+        "correct_answer": "a",
+        "explanation": "Chlorophyll a absorbs light most efficiently at approximately 430 nm (blue) and 662 nm (red) wavelengths."
+    },
+    {
+        "_id": "neet044",
+        "question": "In a dihybrid cross, what is the phenotypic ratio for two heterozygous parents?",
+        "choices": {
+            "a": "3:1",
+            "b": "1:2:1",
+            "c": "9:3:3:1",
+            "d": "1:1:1:1"
+        },
+        "correct_answer": "c",
+        "explanation": "A dihybrid cross between two heterozygous parents (e.g., AaBb x AaBb) results in a 9:3:3:1 phenotypic ratio, as per Mendel's laws."
+    },
+    {
+        "_id": "neet045",
+        "question": "Which of the following is a correct statement about the Doppler effect?",
+        "choices": {
+            "a": "It only applies to light waves",
+            "b": "It describes the change in wave frequency due to relative motion",
+            "c": "It is caused by gravitational force",
+            "d": "It only occurs in a vacuum"
+        },
+        "correct_answer": "b",
+        "explanation": "The Doppler effect describes the change in frequency or wavelength of a wave due to the relative motion between the source and observer."
+    },
+    {
+        "_id": "neet046",
+        "question": "Which part of the human digestive system is the primary site for nutrient absorption?",
+        "choices": {
+            "a": "Stomach",
+            "b": "Small intestine",
+            "c": "Large intestine",
+            "d": "Esophagus"
+        },
+        "correct_answer": "b",
+        "explanation": "The small intestine is the primary site for nutrient absorption due to its large surface area provided by villi and microvilli."
+    },
+    {
+        "_id": "neet047",
+        "question": "What is the hybridization of the carbon atom in methane (CH4)?",
+        "choices": {
+            "a": "sp",
+            "b": "sp²",
+            "c": "sp³",
+            "d": "sp³d"
+        },
+        "correct_answer": "c",
+        "explanation": "In methane, the carbon atom undergoes sp³ hybridization, forming four equivalent sigma bonds with hydrogen atoms."
+    },
+    {
+        "_id": "neet048",
+        "question": "Which of the following is a characteristic of facilitated diffusion?",
+        "choices": {
+            "a": "Requires energy",
+            "b": "Moves substances against concentration gradient",
+            "c": "Uses carrier proteins",
+            "d": "Only occurs in non-polar molecules"
+        },
+        "correct_answer": "c",
+        "explanation": "Facilitated diffusion uses carrier proteins to transport substances across membranes down their concentration gradient without energy."
+    },
+    {
+        "_id": "neet049",
+        "question": "What is the half-life of a radioactive isotope if 25% of the original sample remains after 12 days?",
+        "choices": {
+            "a": "3 days",
+            "b": "6 days",
+            "c": "8 days",
+            "d": "12 days"
+        },
+        "correct_answer": "b",
+        "explanation": "If 25% remains after 12 days, two half-lives have passed (100% → 50% → 25%). Thus, the half-life is 12 ÷ 2 = 6 days."
+    },
+    {
+        "_id": "neet050",
+        "question": "In the human respiratory system, what is the role of the diaphragm during inhalation?",
+        "choices": {
+            "a": "Relaxes to increase chest volume",
+            "b": "Contracts to increase chest volume",
+            "c": "Relaxes to decrease chest volume",
+            "d": "Contracts to decrease chest volume"
+        },
+        "correct_answer": "b",
+        "explanation": "During inhalation, the diaphragm contracts, flattening and increasing the chest cavity volume, allowing air to enter the lungs."
+    }
+]
