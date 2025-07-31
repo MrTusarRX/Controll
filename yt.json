@@ -1,16 +1,16 @@
 {
-  "projects": [
+  "videos": [
     {
-      "apkName": "Sweet Disposition - The Temper Trap",
-      "downloadLink": "https://youtu.be/Y2xgEEhtTAM"
+      "title": "Sweet Disposition - The Temper Trap",
+      "videoId": "bm6EA6mxXVE"
     },
     {
-      "apkName": "Bohemian Rhapsody - Queen",
-      "downloadLink": "https://youtu.be/Y2xgEEhtTAM"
+      "title": "Bohemian Rhapsody - Queen",
+      "videoId": "fJ9rUzIMcZQ"
     },
     {
-      "apkName": "Shape of You - Ed Sheeran",
-      "downloadLink": "https://youtu.be/Y2xgEEhtTAM"
+      "title": "Shape of You - Ed Sheeran",
+      "videoId": "JGwWNGJdvx8"
     }
   ]
 }
